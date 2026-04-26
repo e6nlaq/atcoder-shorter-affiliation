@@ -1,5 +1,8 @@
 {
   "name": "atcoder-shorter-affiliation",
+  "description": "AtCoderの順位表の「所属」列をスリムにするUserScript",
+  "author": "e6nlaq",
+  "license": "MIT",
   "private": true,
   "version": "1.0.0",
   "type": "module",
