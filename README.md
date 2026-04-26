@@ -2,13 +2,14 @@
 
 # AtCoder Shorter Affiliation
 
-<img src="image/long.png" width="512" alt="">
+<img src="image/preview.png" width="512" alt="">
 
 AtCoderの順位表の「所属」列をスリムに。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Built with Bun](https://img.shields.io/badge/Built%20with-Bun-fbf0df?style=flat&logo=bun&logoColor=black)](https://bun.sh/)
+![GitHub Release](https://img.shields.io/github/v/release/e6nlaq/atcoder-shorter-affiliation?logo=github)
 
 </div>
 
