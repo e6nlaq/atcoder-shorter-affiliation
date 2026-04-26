@@ -2,7 +2,7 @@ import stringWidth from "string-width";
 import { GM_getValue, GM_registerMenuCommand, GM_setValue } from "$";
 
 function applyTruncation() {
-    const maxLength = GM_getValue<number>("maxLength", 20);
+    const maxLength = GM_getValue<number>("maxLength", 32);
     const spans = document.querySelectorAll<HTMLElement>(
         ".standings-affiliation",
     );
